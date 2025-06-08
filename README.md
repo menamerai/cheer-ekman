@@ -1,6 +1,6 @@
 # CHEER-Ekman: Fine-grained Embodied Emotion Classification
 
-Data released for CHEER-Ekman paper.
+Data released for [CHEER-Ekman paper](https://arxiv.org/abs/2506.01047). Also available on [Hugging Face](https://huggingface.co/datasets/menamerai/cheer-ekman).
 
 ## Usage: `count_labels.py`
 
