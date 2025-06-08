@@ -1,6 +1,6 @@
 # CHEER-Ekman: Fine-grained Embodied Emotion Classification
 
-Data released for [CHEER-Ekman paper](https://arxiv.org/abs/2506.01047). Also available on [Hugging Face](https://huggingface.co/datasets/menamerai/cheer-ekman).
+Data released for [CHEER-Ekman paper](https://arxiv.org/abs/2506.01047) (ACL 2025). Also available on [Hugging Face](https://huggingface.co/datasets/menamerai/cheer-ekman).
 
 ## Usage: `count_labels.py`
 
@@ -25,4 +25,21 @@ python count_labels.py data/dev.json --show-sentences
 
 # count labels and show preceding context
 python count_labels.py data/dev.json --show-context
+```
+
+
+## Citation
+
+If you use this dataset, please cite us using:
+
+```bibtex
+@misc{duong2025cheerekmanfinegrainedembodiedemotion,
+      title={CHEER-Ekman: Fine-grained Embodied Emotion Classification}, 
+      author={Phan Anh Duong and Cat Luong and Divyesh Bommana and Tianyu Jiang},
+      year={2025},
+      eprint={2506.01047},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.01047}, 
+}
 ```
