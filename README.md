@@ -33,13 +33,24 @@ python count_labels.py data/dev.json --show-context
 If you use this dataset, please cite us using:
 
 ```bibtex
-@misc{duong2025cheerekmanfinegrainedembodiedemotion,
-      title={CHEER-Ekman: Fine-grained Embodied Emotion Classification}, 
-      author={Phan Anh Duong and Cat Luong and Divyesh Bommana and Tianyu Jiang},
-      year={2025},
-      eprint={2506.01047},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.01047}, 
+@inproceedings{duong-etal-2025-cheer,
+    title = "{CHEER}-{E}kman: Fine-grained Embodied Emotion Classification",
+    author = "Duong, Phan Anh  and
+      Luong, Cat  and
+      Bommana, Divyesh  and
+      Jiang, Tianyu",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-short.88/",
+    doi = "10.18653/v1/2025.acl-short.88",
+    pages = "1118--1131",
+    ISBN = "979-8-89176-252-7",
 }
 ```
